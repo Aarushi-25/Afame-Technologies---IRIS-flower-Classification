@@ -11,6 +11,7 @@ Objective:
 The primary objective of this project is to develop a machine learning model capable of accurately classifying Iris flowers into their respective species based on their measurements. The model aims to learn patterns from the features provided in the dataset and generalize well to classify unseen Iris flowers correctly.
 
 Motivation:
+
 Educational Purposes: This project serves as an educational resource for individuals learning about machine learning classification techniques. By working with a well-known dataset like Iris, beginners can gain practical experience in data preprocessing, model training, evaluation, and deployment.
 
 Demonstration of Classification Techniques: The Iris dataset is a classic example often used to demonstrate various classification algorithms due to its simplicity and effectiveness in showcasing fundamental concepts such as feature selection, model training, and performance evaluation.
