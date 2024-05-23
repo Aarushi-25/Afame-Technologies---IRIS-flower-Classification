@@ -1,4 +1,4 @@
-# Afame-Technologies-IRIS-flower-Classification
+# IRIS-flower-Classification
 
 This repository contains code for a machine learning project focused on classifying Iris flowers into different species based on their sepal and petal measurements. The project utilizes the famous Iris flower dataset, a commonly used dataset in the field of machine learning.
 
